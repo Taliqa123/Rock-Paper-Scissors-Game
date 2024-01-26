@@ -1,1 +1,1 @@
-Rock aper scissors game in javascrit
+Rock paper scissors game in javascrit
